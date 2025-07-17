@@ -9,7 +9,7 @@
 #### Example
 
 ```
-python3 script.py yourfile.zip 4
+python3 zipcracker.py yourfile.zip 4
 ```
 Args:
   * File name
