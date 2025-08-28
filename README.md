@@ -10,11 +10,16 @@
 
 ```
 python3 -m pip install --upgrade pip
-pip3 install rarfile
-python3 brute_force_crack.py bts_report_final.rar 4
-# yoki
-python3 brute_force_crack.py bts_report_final.zip 4
 
+pip3 install rarfile
+
+python3 brute_force_crack.py bts_report_final.rar 4
+```
+# or
+```bash
+python3 brute_force_crack.py bts_report_final.zip 4
+```
+```bash
 python3 zipcracker.py yourfile.zip 4
 ```
 Args:
